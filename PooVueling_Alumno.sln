@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooVueling_Alumno", "PooVueling_Alumno\PooVueling_Alumno.csproj", "{80F2BBDB-4759-4198-A2E5-9B7347450398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooVueling_AlumnoTests1", "PooVueling_AlumnoTests1\PooVueling_AlumnoTests1.csproj", "{9F0D5EE2-1BE2-4813-B811-2104E95AE959}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F2BBDB-4759-4198-A2E5-9B7347450398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F2BBDB-4759-4198-A2E5-9B7347450398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F2BBDB-4759-4198-A2E5-9B7347450398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F2BBDB-4759-4198-A2E5-9B7347450398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0D5EE2-1BE2-4813-B811-2104E95AE959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0D5EE2-1BE2-4813-B811-2104E95AE959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0D5EE2-1BE2-4813-B811-2104E95AE959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0D5EE2-1BE2-4813-B811-2104E95AE959}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23264939-AE22-49B6-9534-1D81E603112C}
+	EndGlobalSection
+EndGlobal
