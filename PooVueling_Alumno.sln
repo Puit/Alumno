@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooVueling_Alumno", "PooVue
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooVueling_AlumnoTests1", "PooVueling_AlumnoTests1\PooVueling_AlumnoTests1.csproj", "{9F0D5EE2-1BE2-4813-B811-2104E95AE959}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooVueling_AlumnoXunit.Integration.test", "PooVueling_AlumnoXunit.Integration.test\PooVueling_AlumnoXunit.Integration.test.csproj", "{4CE439F2-1B2C-4A95-B2A8-D0FDA2F4F19C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9F0D5EE2-1BE2-4813-B811-2104E95AE959}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F0D5EE2-1BE2-4813-B811-2104E95AE959}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F0D5EE2-1BE2-4813-B811-2104E95AE959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE439F2-1B2C-4A95-B2A8-D0FDA2F4F19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE439F2-1B2C-4A95-B2A8-D0FDA2F4F19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE439F2-1B2C-4A95-B2A8-D0FDA2F4F19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE439F2-1B2C-4A95-B2A8-D0FDA2F4F19C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
